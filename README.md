@@ -12,4 +12,4 @@ Usage:
 ```python
     ./isaaclab.sh -p pf_control.py 
 ```
-Video: 
+Video: [BiliBili](https://www.bilibili.com/video/BV1RbAqebEx6/)
